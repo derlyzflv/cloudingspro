@@ -12,7 +12,7 @@ const testimonials = [
   {
     name: 'Claudia Benavides',
     company: 'Coolbox',
-    role: 'Gerente de E-commerce',
+    role: 'Gerente de E-commerce de Coolbox',
     image: '👩‍💼',
     rating: 5,
     text: 'Antes, los Cyber Days eran sinónimo de estrés y caídas de sistema. Desde que usamos el Autoscaling de esta plataforma, hemos soportado picos de 100,000 usuarios simultáneos sin un solo error 504. La confianza del cliente es nuestra mayor venta.'

@@ -22,17 +22,6 @@ export function Footer() {
           </div>
 
           <div>
-            <h4 className="font-semibold text-white mb-4">Servicios</h4>
-            <ul className="space-y-2 text-sm">
-              <li className="hover:text-[#64FFDA] cursor-pointer transition">Hosting Web</li>
-              <li className="hover:text-[#64FFDA] cursor-pointer transition">Cloud VPS</li>
-              <li className="hover:text-[#64FFDA] cursor-pointer transition">Servidores Dedicados</li>
-              <li className="hover:text-[#64FFDA] cursor-pointer transition">Dominios</li>
-              <li className="hover:text-[#64FFDA] cursor-pointer transition">SSL Certificados</li>
-            </ul>
-          </div>
-
-          <div>
             <h4 className="font-semibold text-white mb-4">Empresa</h4>
             <ul className="space-y-2 text-sm">
               <li className="hover:text-[#64FFDA] cursor-pointer transition">Sobre Nosotros</li>
@@ -69,3 +58,13 @@ export function Footer() {
     </footer>
   );
 }
+<div>
+  <h4 className="font-semibold text-white mb-4">Servicios</h4>
+  <ul className="space-y-2 text-sm">
+    <li className="hover:text-[#64FFDA] cursor-pointer transition">Hosting Web</li>
+    <li className="hover:text-[#64FFDA] cursor-pointer transition">Cloud VPS</li>
+    <li className="hover:text-[#64FFDA] cursor-pointer transition">Servidores Dedicados</li>
+    <li className="hover:text-[#64FFDA] cursor-pointer transition">Dominios</li>
+    <li className="hover:text-[#64FFDA] cursor-pointer transition">SSL Certificados</li>
+  </ul>
+</div>
