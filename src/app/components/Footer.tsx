@@ -52,11 +52,11 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Phone size={16} className="text-[#64FFDA]" />
-                <span>+1 (555) 123-4567</span>
+                <span>+51 973102756</span>
               </li>
               <li className="flex items-start gap-2">
                 <MapPin size={16} className="text-[#64FFDA] mt-1" />
-                <span>Av. Principal 123<br />Ciudad, País 12345</span>
+                <span>Av. Miraflores S/N,<br />Tacna, Perú</span>
               </li>
             </ul>
           </div>
