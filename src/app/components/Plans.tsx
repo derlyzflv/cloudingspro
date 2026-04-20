@@ -5,7 +5,7 @@ const plans = [
     name: 'Digital Start',
     subtitle: 'Para Emprendimientos y Lanzamientos',
     icon: Zap,
-    price: 'S/25-55',
+    price: 'S/30',
     period: '/mes',
     features: [
       'Alojamiento de la web en contenedores básicos',
@@ -68,9 +68,8 @@ export function Plans() {
           {plans.map((plan) => (
             <div
               key={plan.name}
-              className={`relative bg-white rounded-xl shadow-xl overflow-hidden transition-transform hover:scale-105 ${
-                plan.popular ? 'ring-4 ring-[#64FFDA]' : ''
-              }`}
+              className={`relative bg-white rounded-xl shadow-xl overflow-hidden transition-transform hover:scale-105 ${plan.popular ? 'ring-4 ring-[#64FFDA]' : ''
+                }`}
             >
               {plan.popular && (
                 <div className="absolute top-0 right-0 bg-[#64FFDA] text-[#0A192F] px-4 py-1 text-sm font-semibold z-10">

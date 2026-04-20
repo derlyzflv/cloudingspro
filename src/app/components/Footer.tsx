@@ -11,7 +11,7 @@ export function Footer() {
               <span className="text-xl font-bold text-white">CloudingsPro</span>
             </div>
             <p className="text-sm mb-4">
-              Soluciones de hosting en la nube confiables y escalables para tu negocio.
+              Soluciones en la nube confiables y escalables para tu negocio.
             </p>
             <div className="flex gap-3">
               <Facebook size={20} className="hover:text-[#64FFDA] cursor-pointer transition" />

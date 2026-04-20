@@ -1,10 +1,10 @@
 import { Building2, Shield, Clock, Award } from 'lucide-react';
 
 const clients = [
-  { name: 'SoliPay', industry: 'Fintech de pagos móviles' },
-  { name: 'Alpaquita Mall', industry: 'E-commerce retail' },
-  { name: 'AgroExport Norte', industry: 'Líder en agroindustria' },
-  { name: 'MuniDigital', industry: 'Plataforma de servicios ciudadanos' },
+  { name: 'La Lechería', industry: 'Alimentos y lácteos' },
+  { name: 'Ladrillos Maxx', industry: 'Construcción' },
+  { name: 'Coolbox', industry: 'Venta de productos tecnológicos' },
+  { name: 'Tai Loy', industry: 'Retail útiles y oficina' },
   { name: 'Chasqui Express', industry: 'Logística y última milla' }
 ];
 
