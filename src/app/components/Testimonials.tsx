@@ -3,15 +3,15 @@ import { Star, Quote } from 'lucide-react';
 const testimonials = [
   {
     name: 'Ing. Ricardo Huamán',
-    company: 'SoliPay',
-    role: 'CTO',
+    company: 'Tai Loy',
+    role: 'CTO de Tai Loy',
     image: '👨‍💼',
     rating: 5,
     text: 'Lo que más valoramos de esta PaaS es la latencia mínima dentro del Perú. Migrar nuestra pasarela de pagos fue sencillo y el cumplimiento con las normativas de seguridad fue automático. Es un aliado estratégico para nuestro cumplimiento ante la SBS.'
   },
   {
     name: 'Claudia Benavides',
-    company: 'Alpaquita Mall',
+    company: 'Coolbox',
     role: 'Gerente de E-commerce',
     image: '👩‍💼',
     rating: 5,
@@ -20,7 +20,7 @@ const testimonials = [
   {
     name: 'Sergio Torres',
     company: 'Chasqui Express',
-    role: 'Lead Developer',
+    role: 'Lead Developer de Chasqui Express',
     image: '👨‍💻',
     rating: 5,
     text: 'Como desarrolladores, buscamos agilidad. Con esta PaaS, pasamos de desplegar actualizaciones cada mes a hacerlo varias veces al día con un solo clic. El entorno de Staging nos da la seguridad de que nada se romperá en producción.'
