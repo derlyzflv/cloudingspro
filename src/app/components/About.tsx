@@ -13,8 +13,7 @@ export function About() {
               <h3 className="text-2xl font-semibold text-[#0A192F]">Misión</h3>
             </div>
             <p className="text-gray-600 leading-relaxed">
-              Empoderar a desarrolladores y empresas locales con infraestructura de clase mundial,
-              baja latencia y escalabilidad automática sin complicaciones técnicas.
+              Empoderar a desarrolladores y empresas locales e internacionales con una plataforma en la nube de clase mundial, que permita el despliegue rápido de aplicaciones, baja latencia y escalabilidad automática, sin complicaciones técnicas.
             </p>
           </div>
 
@@ -24,7 +23,7 @@ export function About() {
               <h3 className="text-2xl font-semibold text-[#0A192F]">Visión</h3>
             </div>
             <p className="text-gray-600 leading-relaxed">
-              Ser el estándar de infraestructura en la nube para el ecosistema tech de la región.
+              Ser el estándar de plataforma en la nube para el despliegue y crecimiento de aplicaciones en el ecosistema tecnológico regional e internacional.
             </p>
           </div>
         </div>
@@ -39,19 +38,19 @@ export function About() {
               <li className="flex items-start gap-3">
                 <span className="text-[#64FFDA] text-xl">✓</span>
                 <p className="text-gray-600 leading-relaxed">
-                  Reducir el tiempo de despliegue de las empresas locales en un 70%.
+                  Reducir el tiempo de despliegue de aplicaciones de empresas locales e internacionales en un 70%.
                 </p>
               </li>
               <li className="flex items-start gap-3">
                 <span className="text-[#64FFDA] text-xl">✓</span>
                 <p className="text-gray-600 leading-relaxed">
-                  Garantizar latencia menor a 30ms dentro del territorio nacional.
+                  Garantizar una latencia menor a 30ms dentro del territorio nacional y un rendimiento óptimo para usuarios globales.
                 </p>
               </li>
               <li className="flex items-start gap-3">
                 <span className="text-[#64FFDA] text-xl">✓</span>
                 <p className="text-gray-600 leading-relaxed">
-                  Democratizar el acceso a herramientas de autogestión de servidores para PYMEs.
+                  Democratizar el acceso a herramientas de despliegue y gestión de aplicaciones para PYMEs.
                 </p>
               </li>
             </ul>
